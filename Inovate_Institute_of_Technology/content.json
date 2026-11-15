@@ -1,0 +1,1775 @@
+{
+  "contactFAQs": [
+    {
+      "q": "How quickly will you get back to me?",
+      "a": "We respond to all enquiries within 1 business day—usually much faster."
+    },
+    {
+      "q": "Can I visit the centre?",
+      "a": "Yes! Walk-ins welcome during our open hours. We recommend booking a slot so a mentor is available to talk to you."
+    },
+    {
+      "q": "Do you offer group discounts?",
+      "a": "Yes, for groups of 3 or more from the same organisation. Contact us and we'll work out the right package."
+    },
+    {
+      "q": "I'm not sure which course is right for me—can you help?",
+      "a": "Absolutely. Use the 'Just asking' option in our contact form, or drop us a WhatsApp. We'll suggest the best path based on your goals."
+    }
+  ],
+  "counters": [
+    {
+      "label": "Career & Tech Tracks",
+      "value": "6",
+      "suffix": " Tracks"
+    },
+    {
+      "label": "Modular Courses",
+      "value": "12",
+      "suffix": "+"
+    },
+    {
+      "label": "Technology Domains",
+      "value": "14",
+      "suffix": "+"
+    },
+    {
+      "label": "Project-First Focus",
+      "value": "100",
+      "suffix": "% Practical"
+    }
+  ],
+  "courses": [
+    {
+      "id": "fullstack-web",
+      "title": "Full Stack Web Development",
+      "category": "Full Stack",
+      "level": "Beginner",
+      "mode": "Hybrid",
+      "duration": "16 weeks",
+      "durationWeeks": 16,
+      "shortDesc": "Build production-ready web apps from front to back using modern JavaScript tools.",
+      "tools": [
+        "HTML/CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Git"
+      ],
+      "outcomes": [
+        "Build and deploy full-stack apps",
+        "Understand REST API design",
+        "Work with databases",
+        "Version-control with Git"
+      ],
+      "syllabus": [
+        {
+          "week": "Weeks 1–3",
+          "topic": "Web fundamentals",
+          "items": [
+            "HTML5 semantics",
+            "CSS layouts & Flexbox/Grid",
+            "Responsive design"
+          ]
+        },
+        {
+          "week": "Weeks 4–7",
+          "topic": "JavaScript & React",
+          "items": [
+            "ES6+",
+            "React hooks",
+            "State management",
+            "Component patterns"
+          ]
+        },
+        {
+          "week": "Weeks 8–11",
+          "topic": "Back-end with Node.js",
+          "items": [
+            "Express.js",
+            "REST APIs",
+            "Authentication",
+            "File uploads"
+          ]
+        },
+        {
+          "week": "Weeks 12–14",
+          "topic": "Databases & deployment",
+          "items": [
+            "MongoDB",
+            "Mongoose",
+            "Cloud hosting",
+            "CI/CD basics"
+          ]
+        },
+        {
+          "week": "Weeks 15–16",
+          "topic": "Capstone project",
+          "items": [
+            "End-to-end project",
+            "Code review",
+            "Portfolio prep"
+          ]
+        }
+      ],
+      "color": "cobalt",
+      "icon": "Code2"
+    },
+    {
+      "id": "data-science",
+      "title": "Data Science & Machine Learning",
+      "category": "Data & AI",
+      "level": "Intermediate",
+      "mode": "Online",
+      "duration": "20 weeks",
+      "durationWeeks": 20,
+      "shortDesc": "Go from raw data to production ML models with Python, stats, and real-world projects.",
+      "tools": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "TensorFlow",
+        "SQL",
+        "Tableau"
+      ],
+      "outcomes": [
+        "Clean and explore real datasets",
+        "Build and evaluate ML models",
+        "Communicate insights visually",
+        "Deploy a model endpoint"
+      ],
+      "syllabus": [
+        {
+          "week": "Weeks 1–4",
+          "topic": "Python & data wrangling",
+          "items": [
+            "Python basics",
+            "Pandas",
+            "NumPy",
+            "Data cleaning"
+          ]
+        },
+        {
+          "week": "Weeks 5–9",
+          "topic": "Statistics & visualization",
+          "items": [
+            "Descriptive stats",
+            "Probability",
+            "Matplotlib",
+            "Tableau"
+          ]
+        },
+        {
+          "week": "Weeks 10–15",
+          "topic": "Machine learning",
+          "items": [
+            "Supervised & unsupervised",
+            "Model evaluation",
+            "Scikit-learn"
+          ]
+        },
+        {
+          "week": "Weeks 16–19",
+          "topic": "Deep learning & NLP",
+          "items": [
+            "Neural networks",
+            "TensorFlow",
+            "Text classification"
+          ]
+        },
+        {
+          "week": "Week 20",
+          "topic": "Capstone & deployment",
+          "items": [
+            "End-to-end ML project",
+            "API deployment"
+          ]
+        }
+      ],
+      "color": "mint",
+      "icon": "BrainCircuit"
+    },
+    {
+      "id": "ui-ux-design",
+      "title": "UI/UX Design",
+      "category": "UI/UX",
+      "level": "Beginner",
+      "mode": "Online",
+      "duration": "12 weeks",
+      "durationWeeks": 12,
+      "shortDesc": "Design interfaces people love—from wireframe to prototype, grounded in user research.",
+      "tools": [
+        "Figma",
+        "FigJam",
+        "Adobe XD",
+        "Maze",
+        "Notion"
+      ],
+      "outcomes": [
+        "Conduct user research",
+        "Design high-fidelity prototypes",
+        "Build a portfolio of 3 projects",
+        "Hand off specs to developers"
+      ],
+      "syllabus": [
+        {
+          "week": "Weeks 1–3",
+          "topic": "Design thinking",
+          "items": [
+            "Empathy mapping",
+            "User interviews",
+            "Journey maps"
+          ]
+        },
+        {
+          "week": "Weeks 4–7",
+          "topic": "Visual design",
+          "items": [
+            "Typography",
+            "Colour theory",
+            "Component libraries"
+          ]
+        },
+        {
+          "week": "Weeks 8–10",
+          "topic": "Prototyping & testing",
+          "items": [
+            "Interactive prototypes",
+            "Usability tests",
+            "Iteration"
+          ]
+        },
+        {
+          "week": "Weeks 11–12",
+          "topic": "Portfolio & handoff",
+          "items": [
+            "Case study writing",
+            "Dev specs",
+            "Portfolio review"
+          ]
+        }
+      ],
+      "color": "plum",
+      "icon": "Layers"
+    },
+    {
+      "id": "cloud-devops",
+      "title": "Cloud & DevOps Engineering",
+      "category": "Cloud & DevOps",
+      "level": "Intermediate",
+      "mode": "Hybrid",
+      "duration": "18 weeks",
+      "durationWeeks": 18,
+      "shortDesc": "Build, automate, and scale infrastructure on AWS using modern DevOps practices.",
+      "tools": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "GitHub Actions",
+        "Linux"
+      ],
+      "outcomes": [
+        "Set up scalable cloud infrastructure",
+        "Automate deployments with CI/CD",
+        "Monitor and troubleshoot systems",
+        "Pass AWS practitioner exam (practice)"
+      ],
+      "syllabus": [
+        {
+          "week": "Weeks 1–4",
+          "topic": "Linux & networking",
+          "items": [
+            "Shell scripting",
+            "TCP/IP",
+            "SSH",
+            "Permissions"
+          ]
+        },
+        {
+          "week": "Weeks 5–9",
+          "topic": "Cloud fundamentals (AWS)",
+          "items": [
+            "EC2, S3, RDS",
+            "IAM",
+            "VPC",
+            "Cost management"
+          ]
+        },
+        {
+          "week": "Weeks 10–13",
+          "topic": "Containers & orchestration",
+          "items": [
+            "Docker",
+            "Docker Compose",
+            "Kubernetes basics"
+          ]
+        },
+        {
+          "week": "Weeks 14–17",
+          "topic": "IaC & CI/CD",
+          "items": [
+            "Terraform",
+            "GitHub Actions",
+            "Automated testing pipelines"
+          ]
+        },
+        {
+          "week": "Week 18",
+          "topic": "Capstone",
+          "items": [
+            "Deploy a full app on AWS",
+            "Monitoring with CloudWatch"
+          ]
+        }
+      ],
+      "color": "cobalt",
+      "icon": "Cloud"
+    },
+    {
+      "id": "cybersecurity",
+      "title": "Cybersecurity Fundamentals",
+      "category": "Cybersecurity",
+      "level": "Beginner",
+      "mode": "Offline",
+      "duration": "14 weeks",
+      "durationWeeks": 14,
+      "shortDesc": "Understand threats, secure systems, and develop a defender's mindset from day one.",
+      "tools": [
+        "Kali Linux",
+        "Wireshark",
+        "Nmap",
+        "Metasploit",
+        "Burp Suite"
+      ],
+      "outcomes": [
+        "Identify and respond to common threats",
+        "Conduct basic vulnerability assessments",
+        "Secure web applications",
+        "Understand compliance basics"
+      ],
+      "syllabus": [
+        {
+          "week": "Weeks 1–3",
+          "topic": "Security foundations",
+          "items": [
+            "CIA triad",
+            "Threat models",
+            "Network security"
+          ]
+        },
+        {
+          "week": "Weeks 4–7",
+          "topic": "Ethical hacking",
+          "items": [
+            "Recon",
+            "Exploitation basics",
+            "Burp Suite",
+            "OWASP Top 10"
+          ]
+        },
+        {
+          "week": "Weeks 8–11",
+          "topic": "Defence & monitoring",
+          "items": [
+            "Firewalls",
+            "SIEM",
+            "Log analysis",
+            "Incident response"
+          ]
+        },
+        {
+          "week": "Weeks 12–14",
+          "topic": "Compliance & capstone",
+          "items": [
+            "GDPR/ISO overview",
+            "Audit simulation",
+            "Final report"
+          ]
+        }
+      ],
+      "color": "marigold",
+      "icon": "Shield"
+    },
+    {
+      "id": "python-basics",
+      "title": "Programming Basics with Python",
+      "category": "Programming Basics",
+      "level": "Beginner",
+      "mode": "Online",
+      "duration": "8 weeks",
+      "durationWeeks": 8,
+      "shortDesc": "Your first step into coding—logic, loops, and real mini-projects, all in Python.",
+      "tools": [
+        "Python",
+        "VS Code",
+        "Replit",
+        "Git"
+      ],
+      "outcomes": [
+        "Write clean Python scripts",
+        "Solve problems algorithmically",
+        "Build 5 mini-projects",
+        "Understand coding workflows"
+      ],
+      "syllabus": [
+        {
+          "week": "Weeks 1–2",
+          "topic": "Foundations",
+          "items": [
+            "Variables",
+            "Data types",
+            "Operators",
+            "Input/output"
+          ]
+        },
+        {
+          "week": "Weeks 3–4",
+          "topic": "Control flow",
+          "items": [
+            "If/else",
+            "Loops",
+            "Functions"
+          ]
+        },
+        {
+          "week": "Weeks 5–6",
+          "topic": "Data structures",
+          "items": [
+            "Lists",
+            "Dicts",
+            "File handling"
+          ]
+        },
+        {
+          "week": "Weeks 7–8",
+          "topic": "Projects",
+          "items": [
+            "Calculator",
+            "To-do app",
+            "Data analyzer"
+          ]
+        }
+      ],
+      "color": "mint",
+      "icon": "Terminal"
+    },
+    {
+      "id": "react-advanced",
+      "title": "React & Modern Frontend",
+      "category": "Full Stack",
+      "level": "Intermediate",
+      "mode": "Online",
+      "duration": "10 weeks",
+      "durationWeeks": 10,
+      "shortDesc": "Deep-dive into React ecosystem: hooks, performance, testing, and production patterns.",
+      "tools": [
+        "React",
+        "TypeScript",
+        "Redux Toolkit",
+        "React Query",
+        "Vite",
+        "Vitest"
+      ],
+      "outcomes": [
+        "Build scalable React apps",
+        "Manage complex state",
+        "Write component tests",
+        "Optimize performance"
+      ],
+      "syllabus": [
+        {
+          "week": "Weeks 1–3",
+          "topic": "React deep dive",
+          "items": [
+            "Hooks internals",
+            "Context API",
+            "Custom hooks"
+          ]
+        },
+        {
+          "week": "Weeks 4–6",
+          "topic": "State & data",
+          "items": [
+            "Redux Toolkit",
+            "React Query",
+            "Server state patterns"
+          ]
+        },
+        {
+          "week": "Weeks 7–8",
+          "topic": "TypeScript & testing",
+          "items": [
+            "TS with React",
+            "Vitest",
+            "React Testing Library"
+          ]
+        },
+        {
+          "week": "Weeks 9–10",
+          "topic": "Performance & build",
+          "items": [
+            "Code splitting",
+            "Lazy loading",
+            "Bundle optimization"
+          ]
+        }
+      ],
+      "color": "cobalt",
+      "icon": "Zap"
+    },
+    {
+      "id": "ai-engineering",
+      "title": "AI Engineering & LLMs",
+      "category": "Data & AI",
+      "level": "Advanced",
+      "mode": "Online",
+      "duration": "16 weeks",
+      "durationWeeks": 16,
+      "shortDesc": "Build real AI applications: RAG pipelines, fine-tuning, agents, and production deployment.",
+      "tools": [
+        "Python",
+        "LangChain",
+        "OpenAI API",
+        "HuggingFace",
+        "FastAPI",
+        "Pinecone"
+      ],
+      "outcomes": [
+        "Build RAG-based chat applications",
+        "Fine-tune open-source models",
+        "Create tool-using agents",
+        "Deploy AI APIs at scale"
+      ],
+      "syllabus": [
+        {
+          "week": "Weeks 1–4",
+          "topic": "LLM foundations",
+          "items": [
+            "Transformers",
+            "Prompt engineering",
+            "API integration"
+          ]
+        },
+        {
+          "week": "Weeks 5–9",
+          "topic": "RAG & embeddings",
+          "items": [
+            "Vector DBs",
+            "LangChain",
+            "Document pipelines"
+          ]
+        },
+        {
+          "week": "Weeks 10–13",
+          "topic": "Fine-tuning & agents",
+          "items": [
+            "LoRA fine-tuning",
+            "Tool use",
+            "ReAct agents"
+          ]
+        },
+        {
+          "week": "Weeks 14–16",
+          "topic": "Production & capstone",
+          "items": [
+            "FastAPI deployment",
+            "Monitoring",
+            "Final project"
+          ]
+        }
+      ],
+      "color": "plum",
+      "icon": "Bot"
+    },
+    {
+      "id": "sql-data-analytics",
+      "title": "SQL & Data Analytics",
+      "category": "Data & AI",
+      "level": "Beginner",
+      "mode": "Online",
+      "duration": "8 weeks",
+      "durationWeeks": 8,
+      "shortDesc": "Query, analyse, and present data with SQL and BI tools—no prior experience needed.",
+      "tools": [
+        "PostgreSQL",
+        "MySQL",
+        "Power BI",
+        "Tableau",
+        "Excel"
+      ],
+      "outcomes": [
+        "Write complex SQL queries",
+        "Build interactive dashboards",
+        "Analyse business data",
+        "Tell stories with data"
+      ],
+      "syllabus": [
+        {
+          "week": "Weeks 1–3",
+          "topic": "SQL fundamentals",
+          "items": [
+            "SELECT, WHERE, GROUP BY",
+            "JOINs",
+            "Subqueries"
+          ]
+        },
+        {
+          "week": "Weeks 4–5",
+          "topic": "Advanced queries",
+          "items": [
+            "Window functions",
+            "CTEs",
+            "Query optimisation"
+          ]
+        },
+        {
+          "week": "Weeks 6–7",
+          "topic": "BI tools",
+          "items": [
+            "Power BI basics",
+            "Tableau charts",
+            "Dashboard design"
+          ]
+        },
+        {
+          "week": "Week 8",
+          "topic": "Capstone",
+          "items": [
+            "End-to-end analytics project"
+          ]
+        }
+      ],
+      "color": "mint",
+      "icon": "Database"
+    },
+    {
+      "id": "mobile-flutter",
+      "title": "Mobile App Development (Flutter)",
+      "category": "Full Stack",
+      "level": "Intermediate",
+      "mode": "Hybrid",
+      "duration": "14 weeks",
+      "durationWeeks": 14,
+      "shortDesc": "Build beautiful cross-platform apps for iOS and Android from a single Dart codebase.",
+      "tools": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "REST APIs",
+        "Android Studio"
+      ],
+      "outcomes": [
+        "Ship apps to Android & iOS",
+        "Integrate Firebase backend",
+        "Design adaptive UIs",
+        "Publish to app stores"
+      ],
+      "syllabus": [
+        {
+          "week": "Weeks 1–4",
+          "topic": "Flutter & Dart basics",
+          "items": [
+            "Dart language",
+            "Widgets",
+            "State management"
+          ]
+        },
+        {
+          "week": "Weeks 5–9",
+          "topic": "UI & navigation",
+          "items": [
+            "Layouts",
+            "Navigation 2.0",
+            "Animations",
+            "Responsive UI"
+          ]
+        },
+        {
+          "week": "Weeks 10–12",
+          "topic": "Backend & data",
+          "items": [
+            "Firebase",
+            "REST APIs",
+            "Local storage"
+          ]
+        },
+        {
+          "week": "Weeks 13–14",
+          "topic": "Publishing & capstone",
+          "items": [
+            "App store prep",
+            "Full app project"
+          ]
+        }
+      ],
+      "color": "cobalt",
+      "icon": "Smartphone"
+    },
+    {
+      "id": "devops-kubernetes",
+      "title": "Kubernetes & Container Orchestration",
+      "category": "Cloud & DevOps",
+      "level": "Advanced",
+      "mode": "Online",
+      "duration": "10 weeks",
+      "durationWeeks": 10,
+      "shortDesc": "Master Kubernetes for running production workloads reliably at any scale.",
+      "tools": [
+        "Kubernetes",
+        "Helm",
+        "ArgoCD",
+        "Prometheus",
+        "Grafana",
+        "GKE/EKS"
+      ],
+      "outcomes": [
+        "Design and manage K8s clusters",
+        "Deploy with Helm charts",
+        "Implement GitOps with ArgoCD",
+        "Monitor with Prometheus & Grafana"
+      ],
+      "syllabus": [
+        {
+          "week": "Weeks 1–3",
+          "topic": "K8s fundamentals",
+          "items": [
+            "Pods, Services, Deployments",
+            "ConfigMaps, Secrets"
+          ]
+        },
+        {
+          "week": "Weeks 4–6",
+          "topic": "Helm & networking",
+          "items": [
+            "Helm charts",
+            "Ingress",
+            "Network policies"
+          ]
+        },
+        {
+          "week": "Weeks 7–8",
+          "topic": "GitOps & storage",
+          "items": [
+            "ArgoCD",
+            "PersistentVolumes",
+            "StatefulSets"
+          ]
+        },
+        {
+          "week": "Weeks 9–10",
+          "topic": "Observability & capstone",
+          "items": [
+            "Prometheus",
+            "Grafana",
+            "Production sim"
+          ]
+        }
+      ],
+      "color": "marigold",
+      "icon": "Server"
+    },
+    {
+      "id": "graphic-design",
+      "title": "Graphic Design for Digital",
+      "category": "UI/UX",
+      "level": "Beginner",
+      "mode": "Offline",
+      "duration": "10 weeks",
+      "durationWeeks": 10,
+      "shortDesc": "Learn visual communication—branding, layouts, and digital assets—from first principles.",
+      "tools": [
+        "Adobe Photoshop",
+        "Illustrator",
+        "Canva",
+        "Figma"
+      ],
+      "outcomes": [
+        "Design brand identities",
+        "Create social media assets",
+        "Build a design portfolio",
+        "Understand visual hierarchy"
+      ],
+      "syllabus": [
+        {
+          "week": "Weeks 1–3",
+          "topic": "Design principles",
+          "items": [
+            "Colour",
+            "Typography",
+            "Composition",
+            "Visual hierarchy"
+          ]
+        },
+        {
+          "week": "Weeks 4–6",
+          "topic": "Branding",
+          "items": [
+            "Logo design",
+            "Style guides",
+            "Brand identity"
+          ]
+        },
+        {
+          "week": "Weeks 7–9",
+          "topic": "Digital assets",
+          "items": [
+            "Social media design",
+            "Banners",
+            "Presentations"
+          ]
+        },
+        {
+          "week": "Week 10",
+          "topic": "Portfolio",
+          "items": [
+            "Case studies",
+            "Portfolio review",
+            "Client briefs"
+          ]
+        }
+      ],
+      "color": "plum",
+      "icon": "Palette"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need prior experience to join Inovate Institute of Technology?",
+      "a": "Most of our beginner tracks need zero prior coding experience—just dedication and analytical curiosity. Intermediate and advanced tracks clearly detail prerequisites on their course cards."
+    },
+    {
+      "q": "How does Inovate Solution Technology connect with the Academy?",
+      "a": "Inovate Institute of Technology is the dedicated skilling and training division of Inovate Solution Technology—a full-spectrum software engineering and IT consulting firm based in Madurai. You learn through real engineering workflows and actual client project patterns."
+    },
+    {
+      "q": "Will I get a verified course completion certificate?",
+      "a": "Yes. Every learner who completes their course milestones and final capstone project receives an official certificate of completion from Inovate Solution Technology."
+    },
+    {
+      "q": "What if I miss a scheduled live class?",
+      "a": "All live interactive sessions are recorded and archived with code references and notes so you can catch up anytime throughout your program."
+    },
+    {
+      "q": "How is mentorship structured during the courses?",
+      "a": "You receive direct 1-on-1 code reviews and milestone check-ins with active software developers and mentors from Inovate Solution Technology."
+    },
+    {
+      "q": "Can colleges and companies partner with IST for group training?",
+      "a": "Yes. Inovate Solution Technology actively conducts college collaborations, faculty development programmes, student workshops, and corporate team upskilling across Tamil Nadu and online."
+    },
+    {
+      "q": "Are weekend batches available for working professionals?",
+      "a": "Yes, we offer both dedicated weekend batches and flexible evening slots specifically designed for working professionals and university students."
+    }
+  ],
+  "learningModes": [
+    {
+      "label": "Online live",
+      "desc": "Instructor-led sessions via video call. Full interaction, real-time Q&A.",
+      "icon": "Wifi"
+    },
+    {
+      "label": "Hybrid",
+      "desc": "Mix of in-person workshops and online sessions. Best of both worlds.",
+      "icon": "Shuffle"
+    },
+    {
+      "label": "Weekend batch",
+      "desc": "Sat–Sun only. Designed for working professionals and college students.",
+      "icon": "CalendarDays"
+    },
+    {
+      "label": "Offline / in-person",
+      "desc": "On-campus at our centre. Hands-on lab access, face-to-face mentoring.",
+      "icon": "MapPin"
+    }
+  ],
+  "nav": [
+    {
+      "label": "Home",
+      "to": "/"
+    },
+    {
+      "label": "Courses",
+      "to": "/courses"
+    },
+    {
+      "label": "Programs",
+      "to": "/programs"
+    },
+    {
+      "label": "About",
+      "to": "/about"
+    },
+    {
+      "label": "Why us",
+      "to": "/why-us"
+    },
+    {
+      "label": "Contact",
+      "to": "/contact"
+    }
+  ],
+  "programs": [
+    {
+      "id": "software-engineer",
+      "label": "Software engineer",
+      "title": "Software Engineering track",
+      "duration": "9 months",
+      "fee": "Contact admissions for current fees.",
+      "modes": [
+        "Full-time",
+        "Weekend batch"
+      ],
+      "target": [
+        "Fresh graduates",
+        "Career switchers",
+        "CS undergrads"
+      ],
+      "description": "An end-to-end career track covering web fundamentals, full-stack JavaScript, system design, and professional skills—designed to get you job-ready.",
+      "roadmap": [
+        {
+          "month": 1,
+          "label": "Foundations",
+          "skills": [
+            "HTML/CSS/JS",
+            "Git & CLI",
+            "Problem solving"
+          ],
+          "projects": [
+            "Personal portfolio website"
+          ],
+          "tools": [
+            "VS Code",
+            "Git",
+            "Chrome DevTools"
+          ]
+        },
+        {
+          "month": 2,
+          "label": "JavaScript depth",
+          "skills": [
+            "ES6+",
+            "DOM manipulation",
+            "Async JS",
+            "APIs"
+          ],
+          "projects": [
+            "Weather app with live API"
+          ],
+          "tools": [
+            "JavaScript",
+            "Postman"
+          ]
+        },
+        {
+          "month": 3,
+          "label": "React frontend",
+          "skills": [
+            "React hooks",
+            "State",
+            "React Router"
+          ],
+          "projects": [
+            "Task management app"
+          ],
+          "tools": [
+            "React",
+            "Vite"
+          ]
+        },
+        {
+          "month": 4,
+          "label": "Back-end APIs",
+          "skills": [
+            "Node.js",
+            "Express",
+            "REST",
+            "Auth"
+          ],
+          "projects": [
+            "REST API with JWT auth"
+          ],
+          "tools": [
+            "Node.js",
+            "Postman",
+            "JWT"
+          ]
+        },
+        {
+          "month": 5,
+          "label": "Databases",
+          "skills": [
+            "MongoDB",
+            "SQL basics",
+            "Data modelling"
+          ],
+          "projects": [
+            "Full-stack blog platform"
+          ],
+          "tools": [
+            "MongoDB",
+            "PostgreSQL"
+          ]
+        },
+        {
+          "month": 6,
+          "label": "DevOps & deployment",
+          "skills": [
+            "Docker",
+            "CI/CD",
+            "AWS basics"
+          ],
+          "projects": [
+            "Deploy app to cloud"
+          ],
+          "tools": [
+            "Docker",
+            "GitHub Actions",
+            "AWS"
+          ]
+        },
+        {
+          "month": 7,
+          "label": "System design",
+          "skills": [
+            "Architecture patterns",
+            "Scaling",
+            "Caching"
+          ],
+          "projects": [
+            "Architecture diagrams",
+            "Design review"
+          ],
+          "tools": [
+            "Draw.io",
+            "Redis"
+          ]
+        },
+        {
+          "month": 8,
+          "label": "Capstone project",
+          "skills": [
+            "End-to-end delivery",
+            "Code review",
+            "Agile"
+          ],
+          "projects": [
+            "Full-featured product (team of 2–3)"
+          ],
+          "tools": [
+            "Jira",
+            "Figma",
+            "GitHub"
+          ]
+        },
+        {
+          "month": 9,
+          "label": "Career sprint",
+          "skills": [
+            "Interview prep",
+            "Resume",
+            "LinkedIn"
+          ],
+          "projects": [
+            "Mock interviews",
+            "Portfolio polish"
+          ],
+          "tools": [
+            "LeetCode",
+            "Notion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "data-analyst",
+      "label": "Data analyst",
+      "title": "Data analytics track",
+      "duration": "6 months",
+      "fee": "Contact admissions for current fees.",
+      "modes": [
+        "Online",
+        "Weekend batch"
+      ],
+      "target": [
+        "Business grads",
+        "Excel users wanting to upskill",
+        "Fresh graduates"
+      ],
+      "description": "Master SQL, Python for data analysis, and BI dashboards. By the end you'll be able to independently analyse real business datasets and present actionable insights.",
+      "roadmap": [
+        {
+          "month": 1,
+          "label": "Data fundamentals",
+          "skills": [
+            "Spreadsheets",
+            "Statistics",
+            "Data thinking"
+          ],
+          "projects": [
+            "Business dataset exploration"
+          ],
+          "tools": [
+            "Excel",
+            "Google Sheets"
+          ]
+        },
+        {
+          "month": 2,
+          "label": "SQL mastery",
+          "skills": [
+            "SQL queries",
+            "JOINs",
+            "Window functions"
+          ],
+          "projects": [
+            "Sales analysis in SQL"
+          ],
+          "tools": [
+            "PostgreSQL",
+            "DBeaver"
+          ]
+        },
+        {
+          "month": 3,
+          "label": "Python for data",
+          "skills": [
+            "Pandas",
+            "NumPy",
+            "Data cleaning"
+          ],
+          "projects": [
+            "Customer data pipeline"
+          ],
+          "tools": [
+            "Python",
+            "Jupyter"
+          ]
+        },
+        {
+          "month": 4,
+          "label": "Visualisation",
+          "skills": [
+            "Matplotlib",
+            "Seaborn",
+            "Tableau"
+          ],
+          "projects": [
+            "Interactive Tableau dashboard"
+          ],
+          "tools": [
+            "Tableau",
+            "Power BI"
+          ]
+        },
+        {
+          "month": 5,
+          "label": "ML for analysts",
+          "skills": [
+            "Regression",
+            "Classification",
+            "Scikit-learn"
+          ],
+          "projects": [
+            "Predictive model on real data"
+          ],
+          "tools": [
+            "Scikit-learn"
+          ]
+        },
+        {
+          "month": 6,
+          "label": "Capstone",
+          "skills": [
+            "End-to-end analytics",
+            "Storytelling"
+          ],
+          "projects": [
+            "Full analytics report + presentation"
+          ],
+          "tools": [
+            "Tableau",
+            "PowerPoint"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-engineer",
+      "label": "AI engineer",
+      "title": "AI engineering track",
+      "duration": "8 months",
+      "fee": "Contact admissions for current fees.",
+      "modes": [
+        "Online"
+      ],
+      "target": [
+        "Developers with Python basics",
+        "Data professionals",
+        "ML enthusiasts"
+      ],
+      "description": "Build real AI products—from LLM-powered apps to computer vision systems—using the latest tools and frameworks, with production deployment as the finish line.",
+      "roadmap": [
+        {
+          "month": 1,
+          "label": "ML foundations",
+          "skills": [
+            "Math for ML",
+            "Supervised learning",
+            "Scikit-learn"
+          ],
+          "projects": [
+            "End-to-end ML pipeline"
+          ],
+          "tools": [
+            "Python",
+            "Scikit-learn"
+          ]
+        },
+        {
+          "month": 2,
+          "label": "Deep learning",
+          "skills": [
+            "Neural networks",
+            "CNNs",
+            "PyTorch"
+          ],
+          "projects": [
+            "Image classifier"
+          ],
+          "tools": [
+            "PyTorch",
+            "Colab"
+          ]
+        },
+        {
+          "month": 3,
+          "label": "NLP basics",
+          "skills": [
+            "Text processing",
+            "Transformers",
+            "HuggingFace"
+          ],
+          "projects": [
+            "Sentiment analyser"
+          ],
+          "tools": [
+            "HuggingFace",
+            "NLTK"
+          ]
+        },
+        {
+          "month": 4,
+          "label": "LLM applications",
+          "skills": [
+            "Prompt engineering",
+            "OpenAI API",
+            "Chains"
+          ],
+          "projects": [
+            "Conversational assistant"
+          ],
+          "tools": [
+            "LangChain",
+            "OpenAI API"
+          ]
+        },
+        {
+          "month": 5,
+          "label": "RAG & vector DBs",
+          "skills": [
+            "Embeddings",
+            "RAG pipelines",
+            "Vector search"
+          ],
+          "projects": [
+            "Document Q&A system"
+          ],
+          "tools": [
+            "Pinecone",
+            "LangChain"
+          ]
+        },
+        {
+          "month": 6,
+          "label": "Agents & tools",
+          "skills": [
+            "Tool use",
+            "ReAct agents",
+            "Orchestration"
+          ],
+          "projects": [
+            "Autonomous research agent"
+          ],
+          "tools": [
+            "LangGraph",
+            "Tavily"
+          ]
+        },
+        {
+          "month": 7,
+          "label": "MLOps & deployment",
+          "skills": [
+            "FastAPI",
+            "Docker",
+            "Model monitoring"
+          ],
+          "projects": [
+            "Deploy an AI API"
+          ],
+          "tools": [
+            "FastAPI",
+            "MLflow"
+          ]
+        },
+        {
+          "month": 8,
+          "label": "Capstone",
+          "skills": [
+            "End-to-end AI product",
+            "Demo day"
+          ],
+          "projects": [
+            "Full AI product (solo or pair)"
+          ],
+          "tools": [
+            "All previous tools"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ux-designer",
+      "label": "UX designer",
+      "title": "UX design track",
+      "duration": "5 months",
+      "fee": "Contact admissions for current fees.",
+      "modes": [
+        "Online",
+        "Weekend batch"
+      ],
+      "target": [
+        "Creatives",
+        "PMs wanting design skills",
+        "Fresh graduates"
+      ],
+      "description": "Build a professional UX portfolio through five months of research, design, prototyping, and usability testing on real-world briefs.",
+      "roadmap": [
+        {
+          "month": 1,
+          "label": "Research & empathy",
+          "skills": [
+            "User interviews",
+            "Journey maps",
+            "Affinity mapping"
+          ],
+          "projects": [
+            "Research report on a local problem"
+          ],
+          "tools": [
+            "FigJam",
+            "Notion"
+          ]
+        },
+        {
+          "month": 2,
+          "label": "Visual design",
+          "skills": [
+            "Typography",
+            "Colour",
+            "Layouts",
+            "Figma"
+          ],
+          "projects": [
+            "Component library"
+          ],
+          "tools": [
+            "Figma"
+          ]
+        },
+        {
+          "month": 3,
+          "label": "Interaction design",
+          "skills": [
+            "Prototyping",
+            "Micro-interactions",
+            "Design systems"
+          ],
+          "projects": [
+            "High-fidelity app prototype"
+          ],
+          "tools": [
+            "Figma",
+            "Principle"
+          ]
+        },
+        {
+          "month": 4,
+          "label": "Testing & iteration",
+          "skills": [
+            "Usability testing",
+            "A/B testing",
+            "Metrics"
+          ],
+          "projects": [
+            "Tested and iterated prototype"
+          ],
+          "tools": [
+            "Maze",
+            "Hotjar"
+          ]
+        },
+        {
+          "month": 5,
+          "label": "Portfolio & handoff",
+          "skills": [
+            "Case study writing",
+            "Dev handoff",
+            "Presentation"
+          ],
+          "projects": [
+            "3-piece portfolio",
+            "Portfolio site"
+          ],
+          "tools": [
+            "Figma",
+            "Webflow"
+          ]
+        }
+      ]
+    }
+  ],
+  "selfVsUs": [
+    {
+      "aspect": "Structure",
+      "self": "You figure out the path",
+      "us": "Curated roadmap from day one"
+    },
+    {
+      "aspect": "Accountability",
+      "self": "Easy to quit",
+      "us": "Cohort, mentors & check-ins"
+    },
+    {
+      "aspect": "Projects",
+      "self": "Todo apps and tutorials",
+      "us": "Real briefs, code-reviewed"
+    },
+    {
+      "aspect": "Doubts",
+      "self": "Stack Overflow & hope",
+      "us": "Live mentor & async support"
+    },
+    {
+      "aspect": "Career prep",
+      "self": "On your own",
+      "us": "Resume, mock interviews, referrals"
+    },
+    {
+      "aspect": "Peer network",
+      "self": "Solo",
+      "us": "Cohort + alumni community"
+    },
+    {
+      "aspect": "Feedback",
+      "self": "None",
+      "us": "1-on-1 code & design reviews"
+    }
+  ],
+  "site": {
+    "name": "Inovate Institute of Technology",
+    "shortName": "Inovate Institute of Technology",
+    "companyName": "Inovate Solution Technology",
+    "tagline": "Technology for the way you work, build and learn.",
+    "subtagline": "Bridging software engineering, modern product development, and industry skilling.",
+    "phone": "+91 77086 97677",
+    "phoneRaw": "+917708697677",
+    "email": "ist@inovatesolutiontechnology.in",
+    "hrEmail": "hr@inovatesolutiontechnology.in",
+    "whatsapp": "917708697677",
+    "address": "MK Complex, 2nd Floor, Chennai Hot Puffs upstairs, K.Pudur",
+    "city": "Madurai, Tamil Nadu 625007, India",
+    "hours": {
+      "open": 9,
+      "close": 18,
+      "label": "Mon–Sat, 9:00 AM – 6:00 PM"
+    },
+    "officialWebsite": "https://inovatesolutiontechnology.in/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=MK%20Complex%202nd%20floor%2C%20Chennai%20Hot%20Puffs%20upstairs%2C%20K.Pudur%2C%20Madurai%2C%20Tamil%20Nadu%20625007",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/inovate-solution-technology/posts/",
+      "instagram": "https://www.instagram.com/inovate_solution_technology/",
+      "facebook": "https://www.facebook.com/profile.php?id=61595754880907",
+      "pinterest": "https://in.pinterest.com/inovatesolutiontechnology/"
+    },
+    "services": [
+      "Custom Software Development",
+      "Web & Mobile App Development",
+      "Cloud Solutions & DevOps",
+      "AI & Machine Learning",
+      "Data Analytics",
+      "UI/UX Design",
+      "API Development & Integration",
+      "Database Solutions"
+    ],
+    "educationOfferings": [
+      "College Collaboration & MoUs",
+      "Student Internships",
+      "Technical Workshops",
+      "Subject Takeover",
+      "Student Capstone Projects",
+      "Placement Preparation"
+    ]
+  },
+  "teamMembers": [
+    {
+      "name": "Full Stack & Cloud Mentors",
+      "role": "Web & Distributed Systems",
+      "bio": "Core engineering practitioners from Inovate Solution Technology guiding component architecture, API design, MongoDB/PostgreSQL, and cloud deployments."
+    },
+    {
+      "name": "AI & Data Science Leads",
+      "role": "ML, LLMs & Analytics",
+      "bio": "Practitioners working on predictive analytics, machine learning pipelines, and generative AI application integrations."
+    },
+    {
+      "name": "UI/UX & Product Designers",
+      "role": "Interface Design & Research",
+      "bio": "Design specialists teaching design thinking, Figma design systems, wireframing, usability testing, and developer handoff."
+    },
+    {
+      "name": "DevOps & Infrastructure Leads",
+      "role": "Cloud & Reliability",
+      "bio": "Engineers managing Docker containerization, Kubernetes clusters, CI/CD automated deployment pipelines, and cloud security."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "Inception",
+      "event": "Inovate Solution Technology Founded in Madurai",
+      "detail": "Established in K.Pudur, Madurai as an IT engineering partner delivering custom software, web platforms, and mobile apps."
+    },
+    {
+      "year": "SaaS & Products",
+      "event": "Enterprise & Education Platform Development",
+      "detail": "Engineered proprietary business software including LMS, Campus Drive Evaluation systems (istems.online), and Billing & POS."
+    },
+    {
+      "year": "Partnership",
+      "event": "College Collaborations & Academic Programs",
+      "detail": "Began conducting industry internships, student workshops, and subject takeover programs for academic institutions across Tamil Nadu."
+    },
+    {
+      "year": "Academy",
+      "event": "Inovate Institute of Technology launched",
+      "detail": "Structured an immersive 'Skill Atlas' skilling pathway to help students and professionals build real-world software portfolios."
+    },
+    {
+      "year": "Present",
+      "event": "Continuous Industry-Connected Skilling",
+      "detail": "Empowering developers and creators through project-first roadmaps, real mentor critique, and active placement preparation."
+    }
+  ],
+  "values": [
+    {
+      "title": "Skill over certificate",
+      "desc": "We care about what you can build, not just what you've passed. Assessments are project-based."
+    },
+    {
+      "title": "Honest progress",
+      "desc": "We tell you where you are, what you need to improve, and how to get there—without sugar-coating."
+    },
+    {
+      "title": "Community first",
+      "desc": "Learning alone is hard. We build cohorts, not classrooms. Peer support is part of the program."
+    },
+    {
+      "title": "Always current",
+      "desc": "Our curriculum is updated every cohort by practitioners who use these tools day-to-day."
+    }
+  ],
+  "whyUsPoints": [
+    {
+      "id": "project-first",
+      "title": "Project-first learning",
+      "desc": "Every topic is taught through a real project, not just slides. You graduate with a portfolio, not just a certificate.",
+      "icon": "FolderKanban"
+    },
+    {
+      "id": "mentor-support",
+      "title": "Mentor support",
+      "desc": "Get 1-on-1 sessions, code reviews, and async Q&A from mentors who work in the field—not just teachers.",
+      "icon": "Users"
+    },
+    {
+      "id": "career-support",
+      "title": "Career support",
+      "desc": "Resume reviews, mock interviews, and a dedicated placement drive. We prep you for the job, not just the course.",
+      "icon": "Briefcase"
+    },
+    {
+      "id": "flexible-modes",
+      "title": "Flexible learning modes",
+      "desc": "Online live, weekend batch, or hybrid in-person. Choose what fits your schedule and stick to it.",
+      "icon": "CalendarCheck"
+    },
+    {
+      "id": "small-batches",
+      "title": "Small batches",
+      "desc": "Capped cohort sizes mean your questions get answered, your code gets reviewed, and you're never lost in a crowd.",
+      "icon": "UserCheck"
+    },
+    {
+      "id": "community",
+      "title": "Peer community",
+      "desc": "Join a cohort of learners, get access to our alumni network, and collaborate on projects beyond the classroom.",
+      "icon": "Network"
+    }
+  ],
+  "story": [
+    "Inovate Solution Technology (IST) is an IT consulting, custom software development, and digital solutions firm based in Madurai, Tamil Nadu. Having built production platforms—including LMS platforms, Campus Drive Evaluation systems (istems.online), and enterprise applications—we observed the widening gap between traditional academic syllabi and modern engineering reality.",
+    "To bridge this divide, we established Inovate Institute of Technology as our dedicated skilling division. We designed the curriculum around a single conviction: the fastest path to technical mastery is working on real briefs, receiving code-level critique from practicing engineers, and deploying working software to production.",
+    "Today, Inovate Solution Technology unites software products, technical services, and academic collaborations. We run industry internships, university workshops, and career tracks that equip learners with genuine engineering capabilities—from Madurai to the global tech ecosystem."
+  ],
+  "home": {
+    "heading": "Build skills. Ship real projects.",
+    "intro": "Learn with practising engineers in Madurai or online. Explore project-based courses and career programs, from your first line of code to your next role."
+  },
+  "facilities": [
+    {
+      "title": "Developer labs",
+      "desc": "High-spec developer workstations, modern IDE toolchains and live deployment sandboxes."
+    },
+    {
+      "title": "Connectivity",
+      "desc": "High-speed dedicated fibre internet with redundant backup."
+    },
+    {
+      "title": "Mentorship",
+      "desc": "Guidance from practising Inovate Solution Technology software engineers."
+    }
+  ],
+  "journey": [
+    {
+      "title": "Discover",
+      "desc": "Choose a course or career program that fits your goals."
+    },
+    {
+      "title": "Enrol",
+      "desc": "Choose a batch and learning mode."
+    },
+    {
+      "title": "Learn",
+      "desc": "Join live sessions, use recorded replays and ask questions."
+    },
+    {
+      "title": "Build",
+      "desc": "Work on real briefs with code reviews and mentor feedback."
+    },
+    {
+      "title": "Launch",
+      "desc": "Graduate with a project portfolio and career support."
+    }
+  ],
+  "teachingSteps": [
+    {
+      "title": "Understand the why",
+      "desc": "Every concept is introduced with context—why it exists, where it's used in production, and what problem it solves. No blind memorisation."
+    },
+    {
+      "title": "Apply it immediately",
+      "desc": "Guided exercises put each concept to work within the same session. You write the code, run the query, design the prototype—no passive watching."
+    },
+    {
+      "title": "Build something real",
+      "desc": "Each module closes with a project brief drawn from real-world scenarios. Mentors code-review, critique, and iterate with you until it ships."
+    }
+  ],
+  "learnerPaths": [
+    {
+      "label": "Fresher",
+      "timeline": "4–6 months",
+      "program": "Software Engineering track or Data Analytics track",
+      "outcome": "Land your first tech job with a full portfolio of shipped projects",
+      "steps": [
+        "Foundations (4 wks)",
+        "Core skills (8 wks)",
+        "Projects (6 wks)",
+        "Career sprint (4 wks)",
+        "Placement drive"
+      ]
+    },
+    {
+      "label": "Career switcher",
+      "timeline": "6–9 months",
+      "program": "Software Engineering track or AI Engineering track",
+      "outcome": "Transition from your current field into a tech role with confidence",
+      "steps": [
+        "Skills audit (2 wks)",
+        "Accelerated track (12 wks)",
+        "Portfolio build (6 wks)",
+        "Mock interviews",
+        "Job-ready"
+      ]
+    },
+    {
+      "label": "Working professional",
+      "timeline": "3–5 months (weekend batches)",
+      "program": "Any course in weekend-batch mode",
+      "outcome": "Upskill without quitting your job; add new capabilities to your profile",
+      "steps": [
+        "Kickoff (Sat/Sun)",
+        "Weekly modules",
+        "Mini-projects",
+        "Capstone build",
+        "Certificate + portfolio"
+      ]
+    },
+    {
+      "label": "College student",
+      "timeline": "2–4 months (semester-friendly)",
+      "program": "Standalone course: Python, UI/UX, SQL, React",
+      "outcome": "Graduate with real-world projects and a head start in placements",
+      "steps": [
+        "Pick a course",
+        "Evening / weekend sessions",
+        "Project milestones",
+        "Peer cohort review",
+        "Portfolio ready"
+      ]
+    }
+  ],
+  "projectSteps": [
+    {
+      "title": "Concept",
+      "desc": "We introduce the brief—a real-world problem or product spec, not a textbook prompt."
+    },
+    {
+      "title": "Build",
+      "desc": "You build iteratively, with code reviews, pair sessions, and async Q&A from mentors."
+    },
+    {
+      "title": "Review",
+      "desc": "Your work is reviewed like a professional pull-request—with constructive feedback, not just marks."
+    },
+    {
+      "title": "Ship",
+      "desc": "Projects go live. You graduate with deployed, linkable work in your portfolio."
+    }
+  ],
+  "pageCopy": {
+    "coursesTitle": "Course catalogue",
+    "coursesIntro": "Explore tools, compare courses and review the syllabus before choosing a batch.",
+    "programsTitle": "Career programs",
+    "programsIntro": "Follow a month-by-month roadmap with projects, tools and mentor feedback.",
+    "aboutTitle": "About the institute",
+    "whyTitle": "Why learn with us?",
+    "contactTitle": "Talk to admissions",
+    "contactIntro": "Choose a course, ask about a batch or discuss a partnership."
+  }
+}
