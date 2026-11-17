@@ -185,6 +185,9 @@ def application(env,start):
     start(status,headers+[('Content-Type',mime+'; charset=utf-8'),('Content-Length',str(len(payload)))])
     return [payload]
 
-if __name__=='__main__':
-    with make_server('127.0.0.1',int(os.environ.get('PORT','8000')),application) as server:
+if __name__ == '__main__':
+    port = int(os.environ.get('PORT', '8000'))
+
+    with make_server('0.0.0.0', port, application) as server:
+        print(f'Inovate Institute running on port {port}')
         server.serve_forever()
